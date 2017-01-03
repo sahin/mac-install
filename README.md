@@ -32,8 +32,6 @@ brew cask install stay;
 
 brew cask install joinme;
 
-brew cask install slate;
-
 ====
 
 brew install cask teamviewer;
