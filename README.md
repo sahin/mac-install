@@ -32,6 +32,8 @@ brew cask install stay;
 
 brew cask install joinme;
 
+brew cask install flux;
+
 ====
 
 brew install cask teamviewer;
