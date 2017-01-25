@@ -22,8 +22,6 @@ brew cask install vlc;
 
 brew cask install webtorrent;
 
-brew cask install adobe-acrobat;
-
 brew cask install google-photos-backup
 
 brew cask install sourcetree;
@@ -33,6 +31,8 @@ brew cask install stay;
 brew cask install joinme;
 
 brew cask install flux;
+
+brew cask install adobe-acrobat;
 
 ====
 
