@@ -33,6 +33,8 @@ brew cask install flux;
 
 brew cask install adobe-acrobat;
 
+brew cask install gas-mask;
+
 # other
 
 brew cask install stay;
