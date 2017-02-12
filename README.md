@@ -1,4 +1,5 @@
 # mac-install
+# essentials 
 
 brew cask install alfred;
 
@@ -16,7 +17,7 @@ brew cask install spotify;
 
 brew cask install franz;
 
-brew cask install insync;
+brew cask install the-unarchiver
 
 brew cask install macupdate-desktop;
 
@@ -24,17 +25,22 @@ brew cask install vlc;
 
 brew cask install webtorrent;
 
-brew cask install google-photos-backup
-
 brew cask install sourcetree;
-
-brew cask install stay;
 
 brew cask install joinme;
 
 brew cask install flux;
 
 brew cask install adobe-acrobat;
+
+# other
+
+brew cask install stay;
+
+brew cask install insync;
+
+brew cask install google-photos-backup
+
 
 ====
 
