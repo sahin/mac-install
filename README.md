@@ -1,6 +1,8 @@
 # mac-install
 # essentials 
 
+brew cask install google-chrome;
+
 brew cask install alfred;
 
 brew cask install lastpass;
