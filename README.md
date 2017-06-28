@@ -24,6 +24,8 @@ brew cask install skype;
 
 brew cask install microsoft-teams;
 
+brew cask install sequel-pro;
+
 brew cask install dropbox;
 
 brew cask install spotify;
