@@ -10,11 +10,13 @@ brew cask install iterm2;
 
 brew cask install google-chrome;
 
+brew cask install authy-desktop;
+
 brew cask install lastpass;
 
-brew cask install atom;
-
 brew cask install alfred;
+
+brew cask install atom;
 
 brew cask install google-drive;
 
