@@ -18,8 +18,6 @@ brew cask install alfred;
 
 brew cask install atom;
 
-brew cask install google-drive;
-
 brew cask install the-unarchiver;
 
 brew cask install skype;
