@@ -59,15 +59,15 @@ brew cask install google-photos-backup
 
 ====
 
-brew install cask teamviewer
+brew install cask teamviewer;
 
-brew cask install utorrent
+brew cask install utorrent;
 
 # For rubyist
 
-brew install rbenv
+brew install rbenv;
 
-brew cask install rubymine
+brew cask install rubymine;
 
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 
