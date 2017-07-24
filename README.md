@@ -50,11 +50,6 @@ brew cask install gas-mask;
 
 brew cask install stay;
 
-brew cask install insync;
-
-brew cask install google-photos-backup
-
-
 ====
 
 brew install cask teamviewer;
