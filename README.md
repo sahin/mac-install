@@ -44,7 +44,7 @@ brew cask install adobe-acrobat-reader;
 
 brew cask install gas-mask;
 
-// brew cask install lastpass; install from app store for updates
+# brew cask install lastpass; install from app store for updates
 
 
 # other
