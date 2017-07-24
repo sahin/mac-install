@@ -12,8 +12,6 @@ brew cask install google-chrome;
 
 brew cask install authy-desktop;
 
-brew cask install lastpass;
-
 brew cask install alfred;
 
 brew cask install atom;
@@ -45,6 +43,9 @@ brew cask install flux;
 brew cask install adobe-acrobat-reader;
 
 brew cask install gas-mask;
+
+// brew cask install lastpass; install from app store for updates
+
 
 # other
 
