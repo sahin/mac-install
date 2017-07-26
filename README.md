@@ -38,11 +38,11 @@ brew cask install joinme;
 
 brew cask install sourcetree;
 
-brew cask install flux;
-
 brew cask install adobe-acrobat-reader;
 
 brew cask install gas-mask;
+
+# brew cask install flux;
 
 # brew cask install lastpass; install from app store for updates
 
