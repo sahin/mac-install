@@ -53,7 +53,7 @@ brew cask install stay;
 
 ====
 
-brew install cask teamviewer;
+brew cask install teamviewer;
 
 brew cask install utorrent;
 
