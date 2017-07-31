@@ -14,6 +14,8 @@ brew cask install authy-desktop;
 
 brew cask install alfred;
 
+brew cask install google-backup-and-sync;
+
 brew cask install atom;
 
 brew cask install the-unarchiver;
