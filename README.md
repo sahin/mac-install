@@ -4,6 +4,8 @@
 
 brew tap caskroom/cask;
 
+brew cask install cakebrew;
+
 # essentials 
 
 brew cask install iterm2;
