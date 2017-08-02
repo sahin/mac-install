@@ -46,6 +46,7 @@ brew cask install adobe-acrobat-reader;
 
 brew cask install gas-mask;
 
+brew cask install handbrake;
 
 # other
 
@@ -66,5 +67,8 @@ brew cask install rubymine;
 
 brew install python;
 
+# other
+
+brew install youtube-dl;
 
 ```
