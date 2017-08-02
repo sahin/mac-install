@@ -2,6 +2,10 @@
 
 brew cask list | xargs brew cask reinstall;
 
+# install updater
+brew tap buo/cask-upgrade;
+brew cu --all
+
 
 # mac-install
 ```bash
