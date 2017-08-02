@@ -46,28 +46,25 @@ brew cask install adobe-acrobat-reader;
 
 brew cask install gas-mask;
 
-# brew cask install flux;
-
-# brew cask install lastpass; install from app store for updates
-
 
 # other
 
 brew cask install stay;
+ 
 
-====
+# ====
 
 brew cask install teamviewer;
 
 brew cask install utorrent;
 
-# For rubyist
+# For developer
 
 brew install rbenv;
 
 brew cask install rubymine;
 
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+brew install python;
 
 
 ```
