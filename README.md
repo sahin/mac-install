@@ -1,3 +1,8 @@
+# For update
+
+brew cask list | xargs brew cask reinstall;
+
+
 # mac-install
 ```bash
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)";
