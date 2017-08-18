@@ -15,7 +15,7 @@ brew tap caskroom/cask;
 
 brew cask install cakebrew;
 
-# essentials 
+# essentials
 
 brew cask install iterm2;
 
@@ -60,7 +60,7 @@ brew cask install handbrake;
 # other
 
 brew cask install stay;
- 
+
 
 # ====
 
@@ -71,6 +71,13 @@ brew cask install utorrent;
 # For developer
 
 brew install rbenv;
+
+# in end of .zshrc file add:
+eval "$(rbenv init -)"
+
+rbenv install 2.3.3 # or any ruby version
+
+brew install mysql
 
 brew cask install rubymine;
 
