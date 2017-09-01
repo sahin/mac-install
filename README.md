@@ -17,31 +17,39 @@ brew cask install cakebrew;
 
 # essentials
 
+# Console
 brew cask install iterm2;
 
+# Browsers
 brew cask install google-chrome;
 
+# Security and Password
 brew cask install authy-desktop;
 
-brew cask install alfred;
-
-brew cask install google-backup-and-sync;
-
-brew cask install atom;
-
-brew cask install the-unarchiver;
-
+# Chat
 brew cask install skype;
 
 brew cask install microsoft-teams;
+
+brew cask install franz;
+
+# Editors
+brew cask install atom;
+
+
+brew cask install google-backup-and-sync;
+
+brew cask install alfred;
+
+brew cask install virtualbox;
+
+brew cask install the-unarchiver;
 
 brew cask install sequel-pro;
 
 brew cask install dropbox;
 
 brew cask install spotify;
-
-brew cask install franz;
 
 brew cask install vlc;
 
