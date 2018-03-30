@@ -63,7 +63,11 @@ brew cask install adobe-acrobat-reader;
 
 brew cask install gas-mask;
 
+# some tools 
+
 brew cask install handbrake;
+
+brew cask install imageoptim;
 
 # other
 
