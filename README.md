@@ -35,18 +35,11 @@ brew cask install discord;
 # Editors
 brew cask install atom;
 
-
 brew cask install google-backup-and-sync;
 
 brew cask install alfred;
 
 brew cask install virtualbox;
-
-brew cask install the-unarchiver;
-
-brew cask install sequel-pro;
-
-brew cask install dropbox;
 
 brew cask install spotify;
 
@@ -63,6 +56,12 @@ brew cask install adobe-acrobat-reader;
 brew cask install gas-mask;
 
 # some tools 
+
+brew cask install the-unarchiver;
+
+brew cask install sequel-pro;
+
+brew cask install dropbox;
 
 brew cask install handbrake;
 
