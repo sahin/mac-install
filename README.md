@@ -28,6 +28,7 @@ brew cask install authy-desktop;
 
 # Chat
 brew cask install skype;
+brew cask install zoomus;
 # brew cask install discord;
 # brew cask install microsoft-teams;
 brew cask install franz;
