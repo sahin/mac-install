@@ -30,7 +30,6 @@ brew cask install authy-desktop;
 brew cask install skype;
 brew cask install zoomus;
 # brew cask install discord;
-# brew cask install microsoft-teams;
 brew cask install franz;
 
 # Editors
@@ -58,8 +57,6 @@ brew cask install gas-mask;
 
 # some tools 
 
-brew cask install the-unarchiver;
-
 brew cask install sequel-pro;
 
 brew cask install dropbox;
@@ -68,6 +65,8 @@ brew cask install handbrake;
 
 brew cask install imageoptim;
 
+brew cask install teamviewer;
+
 # other
 
 brew cask install stay;
@@ -75,7 +74,6 @@ brew cask install stay;
 
 # ====
 
-brew cask install teamviewer;
 
 brew cask install utorrent;
 
