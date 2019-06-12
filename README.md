@@ -23,9 +23,6 @@ brew cask install iterm2;
 # Browsers
 brew cask install google-chrome;
 
-# Security and Password
-brew cask install authy-desktop;
-
 # Chat
 brew cask install skype;
 brew cask install zoomus;
