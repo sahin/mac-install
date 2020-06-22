@@ -35,8 +35,6 @@ brew cask install google-backup-and-sync;
 
 brew cask install alfred;
 
-brew cask install virtualbox;
-
 brew cask install spotify;
 
 brew cask install vlc;
@@ -50,6 +48,10 @@ brew cask install sourcetree;
 brew cask install adobe-acrobat-reader;
 
 brew cask install gas-mask;
+
+
+brew cask install virtualbox;
+
 
 # some tools 
 
